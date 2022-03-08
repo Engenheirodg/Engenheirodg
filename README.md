@@ -9,15 +9,14 @@ Estudando:
 
 <div align="center">
   <a href="https://github.com/Engenheirodg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=engenheirodg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenheirodg&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=engenheirodg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
+## Linguagens e Ferramentas mais Utilizadas
 <div style="display: inline_block"><br>
-  <img align="center" alt="Amante-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Amante-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Amante-PBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
-  <img align="center" alt="Amante-DataStudio" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg">
+  <img align="center" alt="Amante-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Amante-MySQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Amante-PBI" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
+  <img align="center" alt="Amante-DataStudio" height="60" width="80" src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg">
  
  ##
   
