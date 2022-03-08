@@ -1,10 +1,11 @@
 ### Olá povo, eu sou o André Amante.
 
 Um pouquinho de mim 
-Sou engenheiro especializado em melhoria de processos.
-Tenho trabalhado fazendo padronização, capacitação de pessoas e implementando tecnologias (Como RPAs, Softwares, etc) 
-Para atingir os resultados que espero nos projetos, os meus principais aliados são os dados e as pessoas.
-Sou professor e gosto de análises de dados.
+Sou engenheiro especializado em melhoria de processos, SixSigma e People Analytics. 
+
+Estudando:
+- 🐍 Python e SQL
+- 📊 PowerBI e Data Studio
 
 <div align="center">
   <a href="https://github.com/Engenheirodg">
@@ -12,17 +13,24 @@ Sou professor e gosto de análises de dados.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engenheirodg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="Amante-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Amante-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Amante-PBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png">
+  <img align="center" alt="Amante-DataStudio" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/google-data-studio.svg">
+
+
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+</div>
+ 
+ ##
   
-<!--
+<div>
+  <a href="https://instagram.com/engenheirodg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andreamante" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:andre.amante@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+  ![Snake animation](https://github.com/engenheirodg/engenheirodg/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
