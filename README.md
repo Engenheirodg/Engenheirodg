@@ -2,10 +2,12 @@
 
 Um pouquinho de mim 
 Sou engenheiro especializado em melhoria de processos, SixSigma e People Analytics. 
+Aprendendo todo dia um pouquinho...
 
 Estudando:
 - 🐍 Python e SQL
 - 📊 PowerBI e Data Studio
+- 💻 HTML5, CSS3 e Javascript
 
 <div align="center">
   <a href="https://github.com/Engenheirodg">
