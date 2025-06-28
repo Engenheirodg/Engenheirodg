@@ -10,16 +10,12 @@ Aprendendo todo dia um pouquinho...
 Meus backgrounds técnicos
 - 🐍 Python para Análise de Dados e Automação de Processos,
 -  SQL (Google Cloud Platform e My SQL)
--  Tratamento de dados via Google Dataprep
+-  Tratamento de dados via com Pandas ou Google Dataprep
 - 📊 Crio meus Dashboards em Tableau, PowerBI e Data Studio (e alguma coisa em python)
 - Javascript para ferramentas google (Especialmente criação de macros no Google Sheets)
 
 Aprendendo:
 - 💻 HTML5, CSS3 e Javascript
-
-<div align="center">
-  <a href="https://github.com/Engenheirodg">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=engenheirodg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 ## Linguagens e Ferramentas mais Utilizadas
 <div style="display: inline_block"><br>
